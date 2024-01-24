@@ -1,20 +1,19 @@
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/madhusudanlolge">
+  <a href="https://www.linkedin.com/in/rushikesh-patil-695b5a228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/itzmadhuu?igsh=MTJxcGV5dGhlc2R1Yw==">
+  <a href="https://www.instagram.com/rushi_patil__26/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
  
 </div>
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Madhusudan  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" align="right" width="450" height="300"/>
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Rushikesh  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" align="right" width="450" height="300"/>
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Maharashtra.
-- :telescope: Worked as Software Engineer at Infinite Computer Solutions.
+- :telescope: Worked as Full Stack Developer at D-Smart Inovation Technology.
 - :seedling: Exploring New Cutting-Edge Technologies.
 - :heart: Love to build web apps in free time.
-- :star: Check my portfolio: [![Portfolio Badge](https://img.shields.io/badge/-Madhusudan-darkblue?style=flat&logo=Github&logoColor=white)](https://madhusudanlolge4.github.io/)
 
 <br />
 
@@ -38,4 +37,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-
